@@ -1,4 +1,4 @@
-class Sealedsecretslave < Formula
+class SealedSecretSlave < Formula
   desc "A helper for sealed secret handling"
   homepage "https://github.com/saltandpurple/sealedsecretslave"
   url "https://github.com/saltandpurple/sealedsecretslave/releases/download/0.0.1/sealedsecretslave-0.0.1.tar.gz"
